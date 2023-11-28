@@ -1,0 +1,6 @@
+.vscode
+
+complex_lib
+*.o
+
+*.bmp
